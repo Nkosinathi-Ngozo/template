@@ -28,6 +28,7 @@ Follow these steps to create a new Expo project:
     ```bash
     npx create-expo-app app-name
     ```
+    
 ## install expo-cli
     ```bash
     npm install -g expo-cli
@@ -38,12 +39,10 @@ Follow these steps to create a new Expo project:
     cd app-name
     ```
     
-    
 ## Start the development server
     ```bash
     npx expo start
     ```
-
 
 # Running existing react-native application (expo based)
 
